@@ -1,3 +1,8 @@
+# rungs.py or top of simulator.py
+
+rungs = [
+    {"type": "AND", "inputs": ["X1", "X2"], "output": "Y1"}
+]
 from logic_engine import evaluate_rung
 
 def scan_cycle(inputs):
