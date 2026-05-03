@@ -34,11 +34,10 @@ def evaluate_rung(rung, inputs, state, dt):
 
         if condition:
             timer["acc"] += dt
-            if timer["acc"] >= timer["preset"]:
-                timer["done"] = True
+            timer["done"] = timer["acc"] >= timer["preset"]
         else:
             timer["acc"] = 0
             timer["done"] = False
 
-        return {"type": "TIMER", "target": timer_id}
+        return None
 
