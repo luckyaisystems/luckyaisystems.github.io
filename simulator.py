@@ -1,12 +1,5 @@
-# rungs.py or top of simulator.py
-
-rungs = [
-    {"type": "AND", "inputs": ["X1", "X2"], "output": "Y1"}
-]
-# simulator.py
-
 from logic_engine import evaluate_rung
-from rungs import rungs   # if you put rungs in a separate file
+from rungs import rungs   # or define rungs above
 
 def scan_cycle(inputs):
     outputs = {}
@@ -16,3 +9,8 @@ def scan_cycle(inputs):
         outputs[rung["output"]] = result
 
     return outputs
+
+
+if __name__ == "__main__":
+    test_inputs = {"X1": True, "X2": False}
+    print(scan_cycle(test_inputs))
