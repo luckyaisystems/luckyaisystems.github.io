@@ -8,7 +8,8 @@ A deterministic logic engine for classifying failure modes across input, operato
 
 [View the full project on GitHub](https://github.com/luckyaisystems/system-failure-audit)
 
-![System Failure Audit Diagram](https://github.com/luckyaisystems/system-failure-audit/blob/main/Screenshot%202026-05-03%204.01.12%20PM.png)
+![System Failure Audit Diagram](https://raw.githubusercontent.com/luckyaisystems/system-failure-audit/main/Screenshot%202026-05-03%204.01.12%20PM.png
+)
 
 ## Failure Mode Classification Table
 
