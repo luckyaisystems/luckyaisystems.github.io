@@ -4,3 +4,7 @@
     "out": "Y1",             # output coil or memory bit
     "params": {...}          # optional (timers, counters)
 }
+rungs = [
+    # Seal-in rung
+    {"op": "AND", "in": ["X1", "Y1"], "out": "Y1"}
+]
