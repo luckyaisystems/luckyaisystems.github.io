@@ -22,29 +22,26 @@ def scan_cycle(state, rungs, dt):
         elif result["type"] == "RESET":
             state.memory[result["target"]] = False
 
-        elif result["type"] == "TIMER":
-            pass  # timer state already updated in state.timers
+    # expose timer done bits as readable inputs (e.g., "T1")
+    for name, timer in state.timers.items():
+        state.inputs[name] = timer["done"]
 
     state.outputs = next_outputs
     return state
 
 
-# ⭐⭐⭐ THIS IS THE MAIN LOOP — PUT IT AT THE BOTTOM ⭐⭐⭐
 if __name__ == "__main__":
     state = PLCState()
-
-    # Example input
     state.inputs = {"X1": False}
 
-    SCAN_TIME = 0.01  # 10ms scan time
+    SCAN_TIME = 0.01  # 10 ms
 
     while True:
         state = scan_cycle(state, rungs, dt=SCAN_TIME * 1000)  # dt in ms
-
+        print("Inputs:", state.inputs)
         print("Outputs:", state.outputs)
-        print("Memory:", state.memory)
         print("Timers:", state.timers)
         print("---")
-
         time.sleep(SCAN_TIME)
+
 
