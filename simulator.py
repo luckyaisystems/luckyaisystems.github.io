@@ -3,21 +3,16 @@
 rungs = [
     {"type": "AND", "inputs": ["X1", "X2"], "output": "Y1"}
 ]
+# simulator.py
+
 from logic_engine import evaluate_rung
+from rungs import rungs   # if you put rungs in a separate file
 
 def scan_cycle(inputs):
-    """
-    One PLC scan cycle:
-    1. Read inputs
-    2. Evaluate logic
-    3. Update outputs
-    """
-    output = evaluate_rung(inputs)
-    return {"Y1": output}
+    outputs = {}
 
+    for rung in rungs:
+        result = evaluate_rung(rung, inputs)
+        outputs[rung["output"]] = result
 
-if __name__ == "__main__":
-    # Example test
-    test_inputs = {"X1": True, "X2": False}
-    print(scan_cycle(test_inputs))
-
+    return outputs
