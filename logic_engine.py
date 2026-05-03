@@ -1,7 +1,9 @@
-def evaluate_rung(inputs):
-    """
-    Minimal deterministic rung:
-    X1 AND X2 → Y1
-    """
-    return inputs.get("X1", False) and inputs.get("X2", False)
+# logic_engine.py
 
+def evaluate_rung(rung, inputs):
+    if rung["type"] == "AND":
+        return all(inputs.get(i, False) for i in rung["inputs"])
+    elif rung["type"] == "OR":
+        return any(inputs.get(i, False) for i in rung["inputs"])
+    elif rung["type"] == "NOT":
+        return not inputs.get(rung["inputs"][0], False)
