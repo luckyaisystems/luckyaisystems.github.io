@@ -40,3 +40,37 @@ Overall System Status: FAILURE — Operator Error
 ```
 
 This demonstrates how the classifier isolates the failure point in a system.
+## Deterministic Rules (Core Logic)
+
+### Input Layer FAIL if:
+- data is None
+- data is outside predefined bounds
+- checksum or validation fails
+
+### Decision Layer FAIL if:
+- rule violation detected
+- conflicting decisions generated
+- undefined or unsafe state reached
+
+### Execution Layer FAIL if:
+- timeout exceeded
+- actuator response incomplete
+- final state does not match expected output
+
+## Example Python Implementation
+
+```python
+def audit_system(data, decision, execution):
+    input_ok = data is not None and 0 <= data <= 100
+    decision_ok = decision in ["ALLOW", "DENY"]
+    execution_ok = execution == "COMPLETED"
+
+    if not input_ok:
+        return "FAILURE — Model Error"
+    if not decision_ok:
+        return "FAILURE — Operator Error"
+    if not execution_ok:
+        return "FAILURE — Execution Decay"
+
+    return "PASS"
+```
