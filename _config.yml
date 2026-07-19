@@ -1,0 +1,72 @@
+# LuckyAISystems Sidebar Structure
+just_the_docs:
+  collections:
+    docs:
+      name: "LuckyAISystems"
+      nav_order: 1
+
+  navigation:
+    - title: "Overview"
+      children:
+        - title: "Homepage"
+          url: "/"
+        - title: "Architecture Overview"
+          url: "/HOMEPAGE_STRUCTURE"
+        - title: "System Overview"
+          url: "/SYSTEM_OVERVIEW"
+
+    - title: "Infrastructure Layer"
+      children:
+        - title: "Infrastructure Overview"
+          url: "/INFRASTRUCTURE_OVERVIEW"
+        - title: "Communication OS"
+          url: "/communication-os/"
+        - title: "Documentation Standards"
+          url: "/documentation-standards"
+        - title: "Decision Engine"
+          url: "/NEXT_DECISION"
+        - title: "Decision Log"
+          url: "/DECISION_LOG"
+        - title: "Verification Standards"
+          url: "/verification-standards"
+        - title: "Repository Templates"
+          url: "/repository-templates"
+
+    - title: "Experience Layer"
+      children:
+        - title: "Internship Logs"
+          url: "/internship/"
+        - title: "Seneca Coursework"
+          url: "/seneca/"
+        - title: "Engineering Journals"
+          url: "/journals/"
+        - title: "Observational Notes"
+          url: "/observations/"
+
+    - title: "Knowledge Layer"
+      children:
+        - title: "Knowledge Base"
+          url: "/KNOWLEDGE_BASE"
+        - title: "Failure Audits"
+          url: "/failure-audits/"
+        - title: "Engineering Notes"
+          url: "/engineering-notes/"
+        - title: "Diagrams"
+          url: "/diagrams/"
+        - title: "Calculators"
+          url: "/calculators/"
+        - title: "Decision Trees"
+          url: "/decision-trees/"
+        - title: "System Models"
+          url: "/system-models/"
+
+    - title: "Portfolio Layer"
+      children:
+        - title: "Portfolio Structure"
+          url: "/PORTFOLIO_STRUCTURE"
+        - title: "GitHub Pages Sites"
+          url: "/sites/"
+        - title: "Documentation Repositories"
+          url: "/docs/"
+        - title: "Project Showcases"
+          url: "/projects/"
