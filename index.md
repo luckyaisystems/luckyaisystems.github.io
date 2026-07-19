@@ -1,6 +1,20 @@
-# Lucky — AI‑Physical Systems Integrator
+# Lucky AI Systems  
+Welcome to the main hub for all engineering projects, documentation systems, and technical experiments.
 
-Site test successful.
+---
+
 ## Projects
 
-- [System Failure Audit](https://luckyaisystems.github.io/system-failure-audit) — Deterministic failure classification engine inspired by PLC safety interlocks.
+### Active Documentation Sites
+- [System Failure Audit](https://luckyaisystems.github.io/system-failure-audit)
+- [Communication OS](https://luckyaisystems.github.io/communication-os)
+
+### Future Projects
+- (Add new project links here as you build them)
+
+---
+
+## About This Hub
+This site serves as the central index for all GitHub Pages projects under the Lucky AI Systems umbrella. Each project has its own dedicated documentation site, architecture, and module structure.
+
+Use the links above to explore each system.
