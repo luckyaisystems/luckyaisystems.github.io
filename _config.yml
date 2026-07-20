@@ -1,3 +1,7 @@
+title: "LuckyAISystems"
+description: "Engineering documentation hub"
+theme: just-the-docs
+
 # LuckyAISystems Sidebar Structure
 just_the_docs:
   collections:
