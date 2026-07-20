@@ -8,6 +8,7 @@ Welcome to the main hub for all engineering projects, documentation systems, and
 ### Active Documentation Sites
 - [System Failure Audit](https://luckyaisystems.github.io/system-failure-audit)
 - [Communication OS](https://luckyaisystems.github.io/communication-os)
+- [Building Systems + Data Centre Development](https://luckyaisystems.github.io/building-systems-data-centre-dev)
 
 ### Future Projects
 - (Add new project links here as you build them)
