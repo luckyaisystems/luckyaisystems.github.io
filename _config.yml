@@ -1,3 +1,4 @@
+# LuckyAISystems Sidebar Structure
 just_the_docs:
   collections:
     docs:
@@ -20,4 +21,5 @@ just_the_docs:
       children:
         - title: "Building Systems + Data Centre Development"
           url: "https://luckyaisystems.github.io/building-systems-data-centre-dev/"
+
 
