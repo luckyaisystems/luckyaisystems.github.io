@@ -1,7 +1,8 @@
-theme: "just-the-docs"
 title: "LuckyAISystems"
 description: "Engineering documentation hub"
+remote_theme: just-the-docs/just-the-docs
 
+# LuckyAISystems Sidebar Structure
 just_the_docs:
   navigation:
     - title: "Overview"
@@ -19,3 +20,4 @@ just_the_docs:
       children:
         - title: "Building Systems + Data Centre Development"
           url: "https://luckyaisystems.github.io/building-systems-data-centre-dev/"
+
