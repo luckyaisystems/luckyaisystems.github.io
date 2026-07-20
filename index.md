@@ -1,23 +1,22 @@
-# Lucky AI Systems  
-Welcome to the main hub for all engineering projects, documentation systems, and technical experiments.
+# LuckyAISystems  
+Welcome to the central hub for all engineering documentation, systems development, and technical workflows.
 
 ---
 
-## Projects
+## Active Documentation Sites
 
-### Active Documentation Sites
-- [System Failure Audit](https://luckyaisystems.github.io/system-failure-audit)
-- [Communication OS](https://luckyaisystems.github.io/communication-os)
-- [Building Systems + Data Centre Development](https://luckyaisystems.github.io/building-systems-data-centre-dev)
-
-### Future Projects
-- (Add new project links here as you build them)
+- [System Failure Audit](/system-failure-audit)
+- [Communication OS](https://luckyaisystems.github.io/communication-os/)
+- [Building Systems + Data Centre Development](https://luckyaisystems.github.io/building-systems-data-centre-dev/)
+- [Troubleshooting OS](https://luckyaisystems.github.io/Troubleshooting-OS/)
 
 ---
 
 ## About This Hub
-This site serves as the central index for all GitHub Pages projects under the Lucky AI Systems umbrella. Each project has its own dedicated documentation site, architecture, and module structure.
+LuckyAISystems serves as the unified index for all engineering projects, documentation systems, and operational artifacts.  
+Each subsystem has its own dedicated GitHub Pages site, architecture, and module structure.
 
-Use the links above to explore each system.
-For a full overview of the LuckyAISystems architecture, see:
-[HOMEPAGE_STRUCTURE.md](HOMEPAGE_STRUCTURE.md)
+Use the sidebar to navigate through the ecosystem.  
+For a full overview of the architecture, see:  
+[HOMEPAGE_STRUCTURE.md](/HOMEPAGE_STRUCTURE)
+
