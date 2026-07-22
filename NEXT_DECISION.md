@@ -1,6 +1,6 @@
 # NEXT_DECISION
 
-Use this file to determine the next highest-leverage action.
+Use this file to determine the next highest‑leverage action.
 
 ## 1. What new reality did I observe?
 (Internship, class, debugging, conversation, equipment, documentation)
@@ -14,14 +14,22 @@ Score:
 ## 3. Is the experience mature enough to become an artifact?
 If not, build the framework and wait for the observation.
 
-## 4. If I only built one thing this week, what would produce the greatest long-term leverage?
+## 4. If I only built one thing this week, what would produce the greatest long‑term leverage?
 Choose the action that strengthens multiple systems simultaneously.
+
+---
 
 # NEXT_DECISION — Version 2 (Knowledge System Refinement)
 
-## Direction Update — Shift from Documentation to Decision Support
+## Governing Principle
 
-### Context
+Every permanent artifact must reduce future cognitive load or improve future decisions.
+
+All sections below exist to support this single rule.
+
+---
+
+## Direction Update — Shift from Documentation to Decision Support
 
 LuckyAISystems has reached a new stage of maturity.  
 Core architecture is established:
@@ -73,7 +81,7 @@ It is not meant to become an encyclopedia.
 
 ## Knowledge Filter
 
-Before creating a new page, ask:
+Before creating or refining a page, apply the governing principle through four questions:
 
 ### 1. Is this reusable?
 If not, keep it in the daily journal.
@@ -141,8 +149,7 @@ The value is in improving future judgment.
 
 ## Validation Phase (2026–2028)
 
-The internship and Seneca program represent the validation stage.
-
+The internship and Seneca program represent the validation stage.  
 Reality is now the primary reviewer.
 
 ---
@@ -180,10 +187,8 @@ The goal is a repository with higher signal and lasting professional value.
 
 ## Meta‑Observation
 
-You asked months ago what the next GitHub should be.
-
-The answer now is clear:
-
-Version 2 of your current ones.
+The next GitHub project is not a new repository.  
+It is Version 2 of the current ones.
 
 Engineering systems mature through refinement, not endless expansion.
+
