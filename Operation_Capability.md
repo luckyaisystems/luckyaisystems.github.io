@@ -1,4 +1,4 @@
-# Operation Capability
+# Operation Capability (v1.0)
 
 ## Purpose
 
@@ -7,7 +7,7 @@ Operation Capability defines the long‑term operating philosophy behind LuckyAI
 It is not a motivational document or a life plan.  
 It is a decision compass.
 
-This document should change rarely. It defines principles, not projects.
+**This document should change rarely. It defines principles, not projects.**
 
 Its purpose is to ensure that every major decision strengthens long‑term capability rather than chasing short‑term outcomes.
 
@@ -15,8 +15,7 @@ Its purpose is to ensure that every major decision strengthens long‑term capab
 
 ## Core Principle
 
-Do not chase impressive outcomes.  
-Build capabilities that make impressive outcomes increasingly likely.
+**Do not chase impressive outcomes. Build capabilities that make impressive outcomes increasingly likely.**
 
 Outcomes fluctuate.  
 Capabilities compound.
@@ -59,9 +58,9 @@ Judgment decides which questions matter.
 
 Experience is valuable only when reflected upon and integrated into future decisions.
 
-Good judgment emerges when assumptions are repeatedly tested against reality.
+**Good judgment emerges when assumptions are repeatedly tested against reality.**
 
-Reality is the final reviewer.
+**Reality is the final reviewer.**
 
 ---
 
@@ -74,14 +73,13 @@ Investments create leverage.
 The objective is not consumption.  
 The objective is increasing optionality.
 
-Financial resilience precedes financial leverage.
+**Financial resilience precedes financial leverage.**
 
 ---
 
 ### 4. Character
 
-Capability creates opportunity.  
-Character determines whether opportunity endures.
+**Capability creates opportunity. Character determines whether opportunity endures.**
 
 Reliability.  
 Humility.  
@@ -150,7 +148,7 @@ Relationships compound.
 Health compounds.  
 Savings compound.
 
-Systems exist to improve decisions, not create complexity.
+**Systems exist to improve decisions, not create complexity.**
 
 Small improvements repeated consistently outperform isolated extraordinary events.
 
@@ -158,6 +156,6 @@ Small improvements repeated consistently outperform isolated extraordinary event
 
 ## Final Principle
 
-Capability is the primary asset.  
-Everything else compounds from it.
+**Capability is the primary asset.**  
+**Everything else compounds from it.**
 
