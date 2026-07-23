@@ -6,6 +6,7 @@ observations into durable engineering artifacts through a continuous Feedback Lo
 
 This homepage provides an overview of the system, its architecture, and how all
 repositories connect.
+The repository is no longer a record of what I know. It is a record of the principles that have repeatedly improved my decisions.
 
 ---
 
