@@ -7,6 +7,8 @@ Operation Capability defines the long‑term operating philosophy behind LuckyAI
 It is not a motivational document or a life plan.  
 It is a decision compass.
 
+This document should change rarely. It defines principles, not projects.
+
 Its purpose is to ensure that every major decision strengthens long‑term capability rather than chasing short‑term outcomes.
 
 ---
@@ -59,7 +61,7 @@ Experience is valuable only when reflected upon and integrated into future decis
 
 Good judgment emerges when assumptions are repeatedly tested against reality.
 
-Reality remains the final reviewer.
+Reality is the final reviewer.
 
 ---
 
@@ -156,5 +158,6 @@ Small improvements repeated consistently outperform isolated extraordinary event
 
 ## Final Principle
 
-Capability is the asset.  
-Everything else compounds from there.
+Capability is the primary asset.  
+Everything else compounds from it.
+
