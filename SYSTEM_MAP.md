@@ -4,145 +4,90 @@ LuckyAISystems — Architecture Map (v1.0)
 ## 1. Purpose
 LuckyAISystems is a personal engineering knowledge system. Its job is to turn real experience into reusable knowledge, improve future decisions, reduce repeated mistakes, and support long-term capability. This map shows how all layers fit together.
 
+---
+
 ## 2. Layers Overview
 LuckyAISystems is built from seven core layers:
-1. [Philosophy Layer](ca://s?q=Open_Operation_Capability) (Operation Capability)
-2. [Communication Layer](ca://s?q=Open_Communication_OS) (Communication OS)
-3. [Decision Layer](ca://s?q=Open_NEXT_DECISION) (NEXT_DECISION)
-4. [Quality Layer](ca://s?q=Open_Verification_Layer) (Verification)
-5. [Pipeline Layer](ca://s?q=Open_Knowledge_Production_Pipeline) (Knowledge Production)
-6. [Repository Layer](ca://s?q=Open_Knowledge_System) (Knowledge System)
-7. [Experience Layer](ca://s?q=Open_Experience_Layer) (Reality Input)
+
+1. [Philosophy Layer](ca://s?q=Open_Operation_Capability) — [View File](/Operation_Capability)
+2. [Communication Layer](ca://s?q=Open_Communication_OS) — [View Folder](/communication-os/)
+3. [Decision Layer](ca://s?q=Open_NEXT_DECISION) — [View File](/NEXT_DECISION)
+4. [Quality Layer](ca://s?q=Open_Verification_Layer) — [View Folder](/verification/)
+5. [Pipeline Layer](ca://s?q=Open_Knowledge_Production_Pipeline) — [View Folder](/pipeline/)
+6. [Repository Layer](ca://s?q=Open_Knowledge_System) — [View Folder](/knowledge-system/)
+7. [Experience Layer](ca://s?q=Open_Experience_Layer) — [View Folder](/internship-journal/)
 
 Each layer has a specific role and should change slowly.
 
-## 3. Philosophy Layer — [Operation Capability](ca://s?q=Open_Operation_Capability)
-Role: Define why you act and what “good” looks like long-term.
+---
 
-Key principles:
-- Capability is the primary asset.
-- Do not chase impressive outcomes; build capabilities that make them likely.
-- Evaluate opportunities through: Technical capability, Judgment, Financial resilience, Character, Service.
+## 3. Philosophy Layer — Operation Capability
+[Open in Copilot](ca://s?q=Open_Operation_Capability)  
+[View File](/Operation_Capability)
 
-This layer governs all others.
+Defines why you act and what “good” looks like long-term.
 
-## 4. Communication Layer — [Communication OS](ca://s?q=Open_Communication_OS)
-Role: Define how you think, write, and refine communication.
+---
 
-Workflow:
-1. Capture (raw thought)
-2. Clarify (objective)
-3. Refine (context, timing, persona, cadence, simplicity)
-4. Evaluate (authenticity, drift, complexity)
-5. Deploy & Observe (use it, watch results, improve next time)
+## 4. Communication Layer — Communication OS
+[Open in Copilot](ca://s?q=Open_Communication_OS)  
+[View Folder](/communication-os/)
 
-This layer stabilizes how you interact with AI and people.
+Defines how you think, write, and refine communication.
 
-## 5. Decision Layer — [NEXT_DECISION](ca://s?q=Open_NEXT_DECISION)
-Role: Decide what deserves attention next.
+---
 
-Core questions:
-1. What new reality did I observe?
-2. What single decision creates the most compounding? (Equinix, Seneca, GitHub ecosystem)
-3. Is the experience mature enough to become an artifact?
-4. If I only built one thing this week, what produces the greatest long-term leverage?
+## 5. Decision Layer — NEXT_DECISION
+[Open in Copilot](ca://s?q=Open_NEXT_DECISION)  
+[View File](/NEXT_DECISION)
 
-This layer prevents noise and keeps focus on high-leverage work.
+Determines what deserves attention next.
 
-## 6. Quality Layer — [Verification](ca://s?q=Open_Verification_Layer)
-Role: Ensure artifacts are trustworthy.
+---
 
-Two types of verification:
+## 6. Quality Layer — Verification
+[Open in Copilot](ca://s?q=Open_Verification_Layer)  
+[View Folder](/verification/)
 
-**Technical Verification**
-- Is this technically correct?
-- Check coursework, documentation, standards, multiple sources.
+Ensures artifacts are trustworthy.
 
-**Context Verification**
-- Is this generalizable beyond one site?
-- Is this confidential?
-- Is this based on enough experience?
-- Am I overgeneralizing?
+---
 
-Nothing becomes permanent without passing this layer.
+## 7. Pipeline Layer — Knowledge Production
+[Open in Copilot](ca://s?q=Open_Knowledge_Production_Pipeline)  
+[View Folder](/pipeline/)
 
-## 7. Pipeline Layer — [Knowledge Production](ca://s?q=Open_Knowledge_Production_Pipeline)
-Role: Turn experience into reusable knowledge.
+Turns experience into reusable knowledge.
 
-Pipeline:
-Experience  
-↓  
-Reflection  
-↓  
-Question  
-↓  
-Analysis  
-↓  
-Abstraction  
-↓  
-Verification  
-↓  
-Artifact  
-↓  
-Knowledge Base  
-↓  
-Better Observation
+---
 
-Apply this pipeline to internship observations, Seneca labs, engineering problems, failures, and technician conversations.
+## 8. Repository Layer — Knowledge System
+[Open in Copilot](ca://s?q=Open_Knowledge_System)  
+[View Folder](/knowledge-system/)
 
-## 8. Repository Layer — [Knowledge System](ca://s?q=Open_Knowledge_System)
-Role: Decide what becomes permanent.
+Decides what becomes permanent.
 
-Knowledge filter:
-1. Is this reusable?
-2. Does this change future decisions?
-3. Does this duplicate existing knowledge?
-4. Is this the simplest structure that solves the problem?
+---
 
-Daily observations → journal.  
-Repeated patterns → engineering principles → artifacts → repository.
-
-The repository is a decision support system, not an encyclopedia.
-
-## 9. Experience Layer — [Reality Input](ca://s?q=Open_Experience_Layer)
-Role: Provide the raw material.
-
-Sources:
-- Equinix internship
-- Seneca BTS coursework
-- Equipment behavior
-- Maintenance procedures
-- Labs and debugging
-- Conversations with technicians
-- Failures and near-misses
+## 9. Experience Layer — Reality Input
+[Open in Copilot](ca://s?q=Open_Experience_Layer)  
+[View Folder](/internship-journal/)
 
 Reality is the primary reviewer.
 
+---
+
 ## 10. System Progression
-LuckyAISystems evolves through phases:
+Construction → Validation → Integration → Capability → Multiplication
 
-Construction  
-↓  
-Validation (internship + Seneca)  
-↓  
-Integration  
-↓  
-Capability  
-↓  
-Multiplication  
-
-The goal is not more repositories.  
-The goal is higher-signal, professionally valuable knowledge.
+---
 
 ## 11. Success Metric
-Every permanent page must answer:
+“What decision does this help me make better?”
 
-**“What decision does this help me make better?”**
-
-If it cannot answer that, it belongs in the journal or archive.
+---
 
 ## 12. Final Principle
-LuckyAISystems is not built to impress.  
-It is built to compound capability over decades.
+LuckyAISystems is built to compound capability over decades.
 
 
