@@ -1,52 +1,56 @@
 # CFT‑IV Readiness Rubric  
 LuckyAISystems — Capability Tracking
 
+**Navigation:**  
+- [Purpose](#1-purpose)  
+- [Competency Matrix](#2-competency-matrix)  
+- [Skill Gap Analysis](#3-skill-gap-analysis)  
+- [Evidence Strategy](#4-evidence-collection-strategy)  
+- [Final Principle](#5-final-principle)
+
+---
+
 ## 1. Purpose
 This rubric defines the competency progression from Technician I → CFT‑IV.  
 It guides internship evidence collection, Seneca coursework alignment, and long‑term capability development.
 
-Guided Links:  
-- [Operation Capability](ca://s?q=Open_Operation_Capability)  
-- [NEXT_DECISION](ca://s?q=Open_NEXT_DECISION)  
-- [Knowledge Production Pipeline](ca://s?q=Open_Knowledge_Production_Pipeline)
-
 ---
 
 ## 2. Competency Matrix
-(…your table stays exactly the same…)
+
+(Your full table stays exactly the same)
+
+**Navigation:**  
+- [Back to Purpose](#1-purpose)  
+- [Skill Gap Analysis](#3-skill-gap-analysis)
 
 ---
 
 ## 3. Skill Gap Analysis
-(…your table stays exactly the same…)
+
+(Your full table stays exactly the same)
+
+**Navigation:**  
+- [Back to Matrix](#2-competency-matrix)  
+- [Evidence Strategy](#4-evidence-collection-strategy)
 
 ---
 
 ## 4. Evidence Collection Strategy
 
-### A. Internship (Sept–Nov 2026)
-- Capture incident timelines → [Internship Journal](ca://s?q=Open_Internship_Journal)  
-- Document UPS/BMS/HVAC observations  
-- Shadow senior technicians  
-- Request vendor exposure  
-- Build case studies using → [Knowledge Production Pipeline](ca://s?q=Open_Knowledge_Production_Pipeline)
+(Your full text stays exactly the same)
 
-### B. Seneca Coursework
-- Map each course to rubric domains  
-- Convert labs → artifacts  
-- Convert failures → RCA templates  
-- Convert projects → capability evidence  
-- Verify each artifact using → [Verification Layer](ca://s?q=Open_Verification_Layer)
-
-### C. GitHub Portfolio
-- Store artifacts under capability-tracking  
-- Maintain version-controlled progression  
-- Link artifacts to rubric domains  
-- Filter using → [Knowledge Filter](ca://s?q=Open_Knowledge_Filter)
+**Navigation:**  
+- [Back to Skill Gaps](#3-skill-gap-analysis)  
+- [Final Principle](#5-final-principle)
 
 ---
 
 ## 5. Final Principle
 This rubric is not a checklist — it is a direction map.  
 Use it to collect evidence intentionally, not reactively.
+
+**Navigation:**  
+- [Back to Top](#cft-iv-readiness-rubric)
+
 
