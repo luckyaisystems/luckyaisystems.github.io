@@ -1,16 +1,19 @@
 # Blind Spot Pre‑Mortem  
 LuckyAISystems — Risk Mitigation
 
+**Navigation:**  
+- [Purpose](#1-purpose)  
+- [Derailment Scenarios](#2-derailment-scenarios)  
+- [Leading Metrics](#3-leading-metrics-track-weekly)  
+- [Final Principle](#4-final-principle)
+
+---
+
 ## 1. Purpose
 This pre‑mortem identifies the failure modes that could derail the next 24 months.  
 It provides early warning signs and mitigation strategies to protect capability, health, savings, and academic performance.
 
 This is your **firewall**.
-
-Guided Links:  
-- [NEXT_DECISION](ca://s?q=Open_NEXT_DECISION)  
-- [Verification Layer](ca://s?q=Open_Verification_Layer)  
-- [Knowledge Filter](ca://s?q=Open_Knowledge_Filter)
 
 ---
 
@@ -25,6 +28,10 @@ Guided Links:
 | **Sleep collapse due to shift conflict** | High | 5–6hr nights, afternoon fatigue, microsleep | Protect bedtime; use lunch naps; adjust caffeine timing |
 | **Market rebound delays condo purchase** | Medium | Toronto prices +10% YoY | Increase down payment target; buy if fundamentals still align |
 
+**Navigation:**  
+- [Back to Purpose](#1-purpose)  
+- [Leading Metrics](#3-leading-metrics-track-weekly)
+
 ---
 
 ## 3. Leading Metrics (Track Weekly)
@@ -35,9 +42,11 @@ Guided Links:
 | **Case study output** | ≥1/month | 2 months with zero output |
 | **Savings rate** | ≥$2,700/month | 2 consecutive months < $2,000 |
 
-If **2+ yellow flags** appear in the same month → trigger a **full system review** using:  
-- [Operation Capability](ca://s?q=Open_Operation_Capability)  
-- [NEXT_DECISION](ca://s?q=Open_NEXT_DECISION)
+If **2+ yellow flags** appear in the same month → trigger a **full system review**.
+
+**Navigation:**  
+- [Back to Scenarios](#2-derailment-scenarios)  
+- [Final Principle](#4-final-principle)
 
 ---
 
@@ -45,4 +54,6 @@ If **2+ yellow flags** appear in the same month → trigger a **full system revi
 Risk mitigation is capability protection.  
 This document prevents derailment before it happens.
 
+**Navigation:**  
+- [Back to Top](#blind-spot-pre-mortem)
 
