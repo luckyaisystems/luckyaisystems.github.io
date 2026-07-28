@@ -7,6 +7,11 @@ It provides early warning signs and mitigation strategies to protect capability,
 
 This is your **firewall**.
 
+Guided Links:  
+- [NEXT_DECISION](ca://s?q=Open_NEXT_DECISION)  
+- [Verification Layer](ca://s?q=Open_Verification_Layer)  
+- [Knowledge Filter](ca://s?q=Open_Knowledge_Filter)
+
 ---
 
 ## 2. Derailment Scenarios
@@ -30,18 +35,14 @@ This is your **firewall**.
 | **Case study output** | ≥1/month | 2 months with zero output |
 | **Savings rate** | ≥$2,700/month | 2 consecutive months < $2,000 |
 
-If **2+ yellow flags** appear in the same month → trigger a **full system review**.
+If **2+ yellow flags** appear in the same month → trigger a **full system review** using:  
+- [Operation Capability](ca://s?q=Open_Operation_Capability)  
+- [NEXT_DECISION](ca://s?q=Open_NEXT_DECISION)
 
 ---
 
-## 4. Guided Links
-- [NEXT_DECISION](ca://s?q=Open_NEXT_DECISION)  
-- [Verification Layer](ca://s?q=Open_Verification_Layer)  
-- [Knowledge Filter](ca://s?q=Open_Knowledge_Filter)
-
----
-
-## 5. Final Principle
+## 4. Final Principle
 Risk mitigation is capability protection.  
 This document prevents derailment before it happens.
+
 
