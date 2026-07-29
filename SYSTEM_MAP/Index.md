@@ -5,82 +5,99 @@ LuckyAISystems — Architecture Map (v1.0)
 LuckyAISystems is a personal engineering knowledge system. Its job is to turn real experience into reusable knowledge, improve future decisions, reduce repeated mistakes, and support long-term capability. This map shows how all layers fit together.
 
 ---
-# SYSTEM-MAP-Index.md
+# SYSTEM_MAP/Index.md
 
 **LuckyAISystems — Master System Map & Navigation Hub (v1.0)**
 
-**Last Updated:** [Insert Date]  
-**Purpose:** This is the single source of truth for how the entire Knowledge Compiler ecosystem works. It serves as the operational dashboard and living instruction manual.
+**Last Updated:** July 29, 2026  
+**Owner:** Lucky Osuigwe  
+**Status:** Operational — Architecture Frozen ([DHR-0009](../design-history/DHR-0009-Pre-Internship-Systems-Locked-In.md))
+
+---
+
+## Purpose
+This is the **central control panel** and living instruction manual for the entire Knowledge Compiler. Use this page as your primary navigation and reference point.
 
 ---
 
 ## Repository Overview
+LuckyAISystems is a personal engineering knowledge system designed to turn raw experience (Equinix shifts + Seneca studies) into structured, searchable, compounding capability.
 
-This repository functions as a **personal Knowledge Compiler** — turning raw field observations into structured, compounding career leverage.
-
-### Core Architecture (The Flywheel)
-
-1. **Input Layer** — Physical Engineering Journal + 3-second metadata tags
-2. **Processing Layer** — Analysis, anonymization, synthesis (post-shift)
-3. **Output Layer** — GitHub Design History Records (DHRs), Case Studies, System Maps
-4. **Feedback Layer** — Weekly/Monthly reviews that improve future performance
+It operates as a **Knowledge Compiler** with a clear flywheel:
+- **Input** → **Processing** → **Output** → **Feedback**
 
 ---
 
-## How to Use This System Effectively (Real-Time Guide)
+## Core Architecture (The Flywheel)
+
+- **[Input Layer](../design-history/DHR-0007-Engineering-Journal-Setup.md)** — Physical Engineering Journal + 3-second metadata tags ([DHR-0008](../design-history/DHR-0008-Journal-Entry-Template.md))
+- **Processing Layer** — Analysis, anonymization, synthesis
+- **[Output Layer](../design-history/)** — DHRs, Case Studies, System Maps
+- **Feedback Layer** — Weekly/Monthly reviews
+
+---
+
+## How to Use This System Effectively
 
 ### Daily Workflow (On Shift)
-- Carry physical Engineering Journal.
-- Use the **DHR-0008 Journal Entry Template** for every notable observation.
-- Apply the 3-second metadata tag at the bottom or in margin:  
-  `>> [Type | Priority | Compile?]`
-- Focus on execution. Let the system handle organization later.
+- Use the physical Engineering Journal.
+- Follow the **[Journal Entry Template](../design-history/DHR-0008-Journal-Entry-Template.md)**.
+- Add the 3-second tag: `>> [Type | Priority | Compile?]`
 
-### Post-Shift Workflow (Same Day / Next Morning)
-1. Open journal.
-2. Scan for entries tagged `[Compile: Y]`.
-3. Create new DHR using the appropriate template (DHR-0010 for single shift entries, etc.).
-4. Update this System Map if new patterns or system-level insights emerge.
-
-### Folder Structure & Artifact Types
-
-| Folder                  | Purpose | Main Content |
-|-------------------------|---------|--------------|
-| **design-history**      | Core DHRs | DHR-0001 through DHR-00XX (chronological records) |
-| **operations**          | Live shift data | First-live entries, incident timelines, MOPs |
-| **system-map**          | High-level synthesis | This index, facility maps, competency matrices |
-| **doctrines**           | Foundational rules | Knowledge Compiler Doctrine, Architecture Freeze, etc. |
-| **readiness**           | Promotion evidence | CFT-IV Rubric, case studies, skill matrices |
-| **archive**             | Low-priority logs | RAW entries not yet compiled |
+### Post-Shift Workflow
+1. Scan journal for `[Compile: Y]` entries.
+2. Create new record using the appropriate template.
+3. Return to this map for orientation when needed.
 
 ---
 
-## Key Templates (Quick Access)
+## Repository Navigation
 
-- **Journal Entry** → DHR-0008 Template
-- **Single Shift Entry** → DHR-0010 Template
-- **Weekly Synthesis** → [Will be created as DHR-00XX-Week-X-Review]
-- **Major Incident / Case Study** → To be defined after first real events
+| Section | Purpose | Link |
+|---------|---------|------|
+| **Design History** | Chronological DHRs | [→ design-history](../design-history/) |
+| **Operations** | Live shift entries & incidents | [→ operations](../operations/) |
+| **System Maps** | High-level synthesis | [→ system-map](../system-map/) (You are here) |
+| **Doctrines** | Foundational principles | [→ doctrines](../doctrines/) |
+| **Readiness** | Promotion & CFT-IV evidence | [→ readiness](../readiness/) |
+| **Archive** | Raw / low-priority logs | [→ archive](../archive/) |
+
+---
+
+## Key Templates
+
+- **[Journal Entry Template](../design-history/DHR-0008-Journal-Entry-Template.md)**
+- **[First Live Shift Entry](../operations/DHR-0010-First-Live-Shift-Entry.md)** (Template)
+- Weekly Synthesis (coming soon)
 
 ---
 
 ## Living Rules (Current Doctrine)
 
-- Architecture is frozen (DHR-0009) — Do not change structure during operations.
-- Capture fast, process later.
-- Every compiled artifact must ultimately support CFT-IV readiness or Seneca learning.
-- Anonymize all Equinix-specific details for confidentiality.
-- Review this System Map monthly to maintain alignment.
+- Architecture is **frozen** ([DHR-0009](../design-history/DHR-0009-Pre-Internship-Systems-Locked-In.md))
+- Capture fast. Process deliberately.
+- All artifacts must support Seneca performance or CFT-IV readiness.
+- Maintain strict anonymization for Equinix data.
 
 ---
 
-## Current Status (as of [Date])
+## Current Status (July 29, 2026)
 
-- Meta-System Phase: **Complete & Frozen**
-- Operational Phase: **Active from Sept 8, 2026**
-- Total Artifacts: [Update count]
-- Next Major Milestone: First live shift entry (DHR-0010)
+- **Meta-System Phase**: Complete & Frozen
+- **Operational Phase**: Begins September 8, 2026
+- **Next Milestone**: DHR-0010 — First Live Shift Entry
 
+---
+
+**This is the control panel.**  
+Return here whenever you need clarity on process, structure, or direction.
+
+**The machine is running. Execute.**
+
+---
+
+*Document owner: Lucky Osuigwe*  
+*Version: 1.0 — Frozen July 29, 2026*
 ---
 
 **This System Map is the control panel.**  
