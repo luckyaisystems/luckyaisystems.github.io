@@ -16,7 +16,7 @@ This refines DHR-0007 without redesigning it.
 | Field | Value |
 |-------|-------|
 | **Date** | July 29, 2026 |
-| **Days to Equinix Internship** | 9 (Internship start: September 7, 2026) |
+| **Days to Equinix Internship** | 41 (Internship start: September 8, 2026) |
 | **Operational Start** | September 8, 2026 |
 | **Artifact Type** | Input Specification Refinement |
 | **Previous DHR** | DHR-0007 (Engineering Journal Setup) |
