@@ -16,7 +16,7 @@ This marks the start of the operational phase (September 8, 2026).
 | Field | Value |
 |-------|-------|
 | **Date** | July 29, 2026 |
-| **Days to Equinix Internship** | 9 (Internship start: September 7, 2026) |
+| **Days to Equinix Internship** | 41 (Internship start: September 8, 2026) |
 | **Build Phase** | Complete (frozen July 29, 2026) |
 | **Operational Start** | September 8, 2026 |
 | **Artifact Type** | Source Input Specification |
