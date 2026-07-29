@@ -42,7 +42,7 @@ LuckyAISystems converts raw experience (Equinix shifts + Seneca coursework) into
 |--------|---------|------|
 | **Design History** | Chronological DHRs | [Design History](https://luckyaisystems.github.io/Design_History_Record/DHR-0001-Evolution.html) |
 | **Operations** | Live shift entries & incidents | [Operations](/internship-journal/) |
-| **System Maps** | High‑level synthesis | [System Maps](/SYSTEM_MAP/) |
+| **System Maps** | High‑level synthesis | [System Maps](https://luckyaisystems.github.io/SYSTEM_MAP/Index.html) |
 | **Doctrines** | Foundational principles | [Doctrines](/knowledge-system/) |
 | **Readiness** | Promotion & CFT‑IV evidence | [Readiness](https://luckyaisystems.github.io/capability-tracking/CFT_IV_Readiness_Rubric.html) |
 | **Archive** | Raw / low‑priority logs | [Archive](/archive/) |
