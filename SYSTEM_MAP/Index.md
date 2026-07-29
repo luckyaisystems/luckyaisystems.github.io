@@ -44,7 +44,8 @@ LuckyAISystems converts raw experience (Equinix shifts + Seneca coursework) into
 | **Operations** | Live shift entries & incidents | [Operations](/internship-journal/) |
 | **System Maps** | High‑level synthesis | [System Maps](/SYSTEM_MAP/) |
 | **Doctrines** | Foundational principles | [Doctrines](/knowledge-system/) |
-| **Readiness** | Promotion & CFT‑IV evidence | [Readiness](/capability-tracking/) |
+| **Readiness** | Promotion & CFT‑IV evidence | [Readiness](https://luckyaisystems.github.io/capability-tracking/CFT_IV_Readiness_Rubric/) |
+
 | **Archive** | Raw / low‑priority logs | [Archive](/archive/) |
 
 ---
