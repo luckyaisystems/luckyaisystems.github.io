@@ -11,4 +11,4 @@
 - [DHR‑0007 — Engineering Journal Setup](DHR-0007-Engineering-Journal-Setup.html)
 - [DHR‑0008 — Journal Entry Template](DHR-0008-Journal-Entry-Template.html)
 - [DHR‑0009 — Pre-Internship Systems Locked](DHR-0009-Pre-Internship-Systems-Locked.html)
-- [DHR‑0010 — First Live Shift Entry](DHR-0010 -- First Live Shift Entry.html)
+- [DHR‑0010 — First Live Shift Entry](https://luckyaisystems.github.io/DHR-0010%20--%20First%20Live%20Shift%20Entry.html)
