@@ -19,7 +19,7 @@ This is the first live operational entry captured from the data center floor. It
 | **Journal Entry Source** | [Timestamp from physical notebook] |
 
 **Metadata Tag from Journal**: `>> [Type \| Priority \| Compile?]`  
-([See Journal Entry Standard](../design-history/DHR-0008-Journal-Entry-Template.md))
+([See Journal Entry Standard](../https://luckyaisystems.github.io/DHR-0008-Journal-Entry-Template.html))
 
 ---
 
