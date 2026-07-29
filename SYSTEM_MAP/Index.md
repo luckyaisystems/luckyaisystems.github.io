@@ -41,12 +41,13 @@ LuckyAISystems converts raw experience (Equinix shifts + Seneca coursework) into
 
 | Section | Purpose | Link |
 |--------|---------|------|
-| **[Design History](ca://s?q=Open_design_history)** | Chronological DHRs | `/design-history` |
-| **[Operations](ca://s?q=Open_operations)** | Live shift entries & incidents | `/operations` |
-| **[System Maps](ca://s?q=Open_system_map)** | High‑level synthesis | `/system-map` |
-| **[Doctrines](ca://s?q=Open_doctrines)** | Foundational principles | `/doctrines` |
-| **[Readiness](ca://s?q=Open_readiness)** | Promotion & CFT‑IV evidence | `/readiness` |
-| **[Archive](ca://s?q=Open_archive)** | Raw / low‑priority logs | `/archive` |
+| **Design History** | Chronological DHRs | [Design History](/sys/Design_History_Record/) |
+| **Operations** | Live shift entries & incidents | [Operations](/internship-journal/) |
+| **System Maps** | High‑level synthesis | [System Maps](/SYSTEM_MAP/) |
+| **Doctrines** | Foundational principles | [Doctrines](/knowledge-system/) |
+| **Readiness** | Promotion & CFT‑IV evidence | [Readiness](/capability-tracking/) |
+| **Archive** | Raw / low‑priority logs | [Archive](/archive/) |
+
 
 ---
 
