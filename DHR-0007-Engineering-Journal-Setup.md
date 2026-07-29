@@ -1,85 +1,92 @@
 # DHR-0007 -- Engineering Journal Setup
 
-**LuckyAISystems -- Design History Record (v1.0)**
+**LuckyAISystems -- Design History Record (v1.0)**  
 **Operational Source Input: Engineering Journal**
 
-## Purpose <a name="purpose"></a>
+## Purpose
+This record establishes the Engineering Journal as the canonical raw input layer for the Knowledge Compiler. All observations from Equinix and Seneca will be captured here first, then evaluated for compilation into GitHub artifacts. 
 
-This record documents the establishment of the Engineering Journal as the primary source input to the Knowledge Compiler. All raw observations from Equinix and Seneca flow through the journal before being evaluated for compilation into GitHub artifacts.
-
-This marks the start of the operational phase (September 8, 2026).
-
----
-
-## 1. Context <a name="context"></a>
-
-| Field | Value |
-|-------|-------|
-| **Date** | July 29, 2026 |
-| **Days to Equinix Internship** | 41 (Internship start: September 8, 2026) |
-| **Build Phase** | Complete (frozen July 29, 2026) |
-| **Operational Start** | September 8, 2026 |
-| **Artifact Type** | Source Input Specification |
-
-The Architecture Freeze Declaration closed all doctrinal building. This journal specification opens the operational pipeline.
+This opens the operational pipeline as of the start of the Equinix internship.
 
 ---
 
-## 2. Event Description <a name="event-description"></a>
+## 1. Context
+
+| Field                    | Value                              |
+|--------------------------|------------------------------------|
+| **Date**                 | July 29, 2026                      |
+| **Days to Equinix Start**| 41 (Internship begins Sept 8)     |
+| **Build Phase**          | Frozen (July 29, 2026)             |
+| **Operational Start**    | September 8, 2026                  |
+| **Artifact Type**        | Source Input Specification         |
+
+The Architecture Freeze closed doctrinal development. This journal specification activates the input pipeline.
+
+---
+
+## 2. Event Description
 
 ### What Happened
-An Engineering Journal was procured to serve as the canonical raw input source for all Equinix and Seneca observations. Entries are timestamped, factual, and unfiltered — serving as source code for the Knowledge Compiler.
+An Engineering Journal was procured to serve as the primary, low-friction capture mechanism for all technical observations, incidents, and learnings.
 
 ### Why It Matters (First Principles)
-Raw observations must be captured before processing. The journal provides:
+Reliable systems require clean separation of layers:
+- **Raw capture** must happen close to the event with minimal friction.
+- **Processing** (analysis, anonymization, compilation) happens later.
+- Without a dedicated journal, observations risk loss, distortion, or immediate over-editing.
 
-- Immediate capture (no friction)
-- Timestamped audit trail
-- No editorial filtering (preserves context)
-- Physical/digital backup capability
-- Clear separation from GitHub artifacts (source vs. binary)
-
-Without the journal, observations would either disappear or be immediately over-formatted.
+This creates a robust **Source → Compiler → Artifact** pipeline, mirroring real engineering documentation flows (field notes → formal reports/MOPs).
 
 ### User Observation
-> "The journal becomes raw input to the compiler. The GitHub becomes compiled output."
-
-This creates a clean architecture: physical capture → digital transformation.
+"The journal becomes raw input (source code). GitHub becomes compiled output (binary)."
 
 ---
 
-## 3. Evidence <a name="evidence"></a>
+## 3. Evidence
 
-| Artifact | Role |
-|----------|------|
-| Engineering Journal (physical) | Primary source input |
-| Digital scan/copies | Backup and retrieval |
-| GitHub artifacts | Compiled binary output |
-| DHR-0006 | Precedes this operational specification |
-
-The journal is the single point of capture for all future operational evidence.
+| Artifact                  | Role |
+|---------------------------|------|
+| Physical Engineering Journal | Primary raw input |
+| Digital scans/copies      | Backup & retrieval |
+| GitHub DHRs & Case Studies| Compiled, anonymized output |
+| DHR-0006                  | Preceding self-validation |
 
 ---
 
-## 4. Architectural Interpretation <a name="interpretation"></a>
+## 4. Architectural Interpretation
 
 ### Validated Principles
 
-| Principle | Validation Demonstrated |
-|-----------|------------------------|
-| **Source vs. Binary Separation** | Journal is disposable; compiled artifact is permanent |
-| **Capture Before Processing** | Raw data must exist before transformation |
-| **Workflow Over Prompt** | Journal is a process, not a magic input |
-| **Documentation as Leveraged Work** | Each entry compounds toward case studies |
+| Principle                  | Validation |
+|---------------------------|----------|
+| **Source vs. Processed Separation** | Journal = raw & disposable; GitHub = permanent & refined |
+| **Capture Before Analysis** | Prevents loss and premature filtering |
+| **Workflow Over Prompt**   | Physical journal enforces consistent process |
+| **Compounding Leverage**   | Every shift can feed future case studies and promotion evidence |
 
-### The Journal Entry Rule
-Each journal entry must include:
+### Journal Entry Standard (Mandatory)
+- **Timestamp**: Date + 24-hour time
+- **Observation**: Factual description only (what was seen/heard/measured)
+- **Context/Question**: What system or principle does this relate to?
+- **Potential Action**: Artifact? (Y/N + why)
 
-| Element | Requirement |
-|---------|-------------|
-| **Timestamp** | Date + time (24-hour format) |
-| **Observation** | What was seen/fact, no interpretation |
-| **Question** | What principle might this validate? |
-| **Action** | Will this become an artifact? (Y/N) |
+---
 
-Example entry:
+## 5. Resulting Changes
+- Engineering Journal designated as official input layer.
+- Operational pipeline now active for Sept 8 onward.
+- All future DHRs will reference journal entries as source.
+
+---
+
+## 6. Design Principles Learned
+- Strong systems begin with reliable raw input.
+- Physical tools reduce friction for high-volume capture.
+- Clear layer separation (raw → processed) improves quality and auditability.
+
+**Journal Setup Complete. Operational input layer ready.**
+
+**Frozen July 29, 2026 — Version 1.0**
+
+*Document owner: Lucky Osuigwe*  
+*Location: LuckyAISystems/design-history/DHR-0007-Engineering-Journal-Setup.md*
