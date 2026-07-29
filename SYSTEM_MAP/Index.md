@@ -71,7 +71,7 @@ LuckyAISystems converts raw experience (Equinix shifts + Seneca coursework) into
 
 - **Meta‑System Phase:** Complete & Frozen  
 - **Operational Phase:** Begins September 8, 2026  
-- **Next Milestone:** **[DHR‑0010 — First Live Shift Entry](ca://s?q=Open_DHR_0010)**
+- **Next Milestone:** **[DHR‑0010 — First Live Shift Entry](https://luckyaisystems.github.io/DHR-0010%20--%20First%20Live%20Shift%20Entry.html)**
 
 ---
 
