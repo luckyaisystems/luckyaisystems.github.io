@@ -1,194 +1,106 @@
-# SYSTEM_MAP.md  
-LuckyAISystems — Architecture Map (v1.0)
-
-## 1. Purpose
-LuckyAISystems is a personal engineering knowledge system. Its job is to turn real experience into reusable knowledge, improve future decisions, reduce repeated mistakes, and support long-term capability. This map shows how all layers fit together.
-
----
-# SYSTEM_MAP/Index.md
-
-**LuckyAISystems — Master System Map & Navigation Hub (v1.0)**
+# LuckyAISystems — Master System Map & Navigation Hub (v1.0)
 
 **Last Updated:** July 29, 2026  
 **Owner:** Lucky Osuigwe  
-**Status:** Operational — Architecture Frozen ([DHR-0009](../design-history/DHR-0009-Pre-Internship-Systems-Locked-In.md))
+**Status:** Operational — Architecture Frozen (**[DHR‑0009](ca://s?q=Open_DHR_0009)**)
 
 ---
 
 ## Purpose
-This is the **central control panel** and living instruction manual for the entire Knowledge Compiler. Use this page as your primary navigation and reference point.
+This is the central control panel for the entire Knowledge Compiler.  
+Use this page as your primary navigation and orientation point.
+
+LuckyAISystems converts raw experience (Equinix shifts + Seneca coursework) into structured, searchable, compounding capability.
 
 ---
 
-## Repository Overview
-LuckyAISystems is a personal engineering knowledge system designed to turn raw experience (Equinix shifts + Seneca studies) into structured, searchable, compounding capability.
+## Core Architecture — The Flywheel
 
-It operates as a **Knowledge Compiler** with a clear flywheel:
-- **Input** → **Processing** → **Output** → **Feedback**
-
----
-
-## Core Architecture (The Flywheel)
-
-- **[Input Layer](../design-history/DHR-0007-Engineering-Journal-Setup.md)** — Physical Engineering Journal + 3-second metadata tags ([DHR-0008](../design-history/DHR-0008-Journal-Entry-Template.md))
-- **Processing Layer** — Analysis, anonymization, synthesis
-- **[Output Layer](../design-history/)** — DHRs, Case Studies, System Maps
-- **Feedback Layer** — Weekly/Monthly reviews
+**Input Layer** — Physical Engineering Journal + 3‑second metadata tags (**[DHR‑0008](ca://s?q=Open_DHR_0008)**)  
+**Processing Layer** — Analysis, anonymization, synthesis  
+**Output Layer** — DHRs, Case Studies, System Maps  
+**Feedback Layer** — Weekly / Monthly reviews
 
 ---
 
-## How to Use This System Effectively
+## How to Use This System
 
 ### Daily Workflow (On Shift)
-- Use the physical Engineering Journal.
-- Follow the **[Journal Entry Template](../design-history/DHR-0008-Journal-Entry-Template.md)**.
-- Add the 3-second tag: `>> [Type | Priority | Compile?]`
+- Use the physical Engineering Journal  
+- Follow the **[Journal Entry Template](ca://s?q=Open_Journal_Entry_Template)**  
+- Add the 3‑second tag: `>> [Type | Priority | Compile?]`
 
-### Post-Shift Workflow
-1. Scan journal for `[Compile: Y]` entries.
-2. Create new record using the appropriate template.
-3. Return to this map for orientation when needed.
+### Post‑Shift Workflow
+- Scan journal for entries marked **Compile: Y**  
+- Create new records using the correct template  
+- Return to this map for orientation
 
 ---
 
 ## Repository Navigation
 
 | Section | Purpose | Link |
-|---------|---------|------|
-| **Design History** | Chronological DHRs | [→ design-history](../design-history/) |
-| **Operations** | Live shift entries & incidents | [→ operations](../operations/) |
-| **System Maps** | High-level synthesis | [→ system-map](../system-map/) (You are here) |
-| **Doctrines** | Foundational principles | [→ doctrines](../doctrines/) |
-| **Readiness** | Promotion & CFT-IV evidence | [→ readiness](../readiness/) |
-| **Archive** | Raw / low-priority logs | [→ archive](../archive/) |
+|--------|---------|------|
+| **[Design History](ca://s?q=Open_design_history)** | Chronological DHRs | `/design-history` |
+| **[Operations](ca://s?q=Open_operations)** | Live shift entries & incidents | `/operations` |
+| **[System Maps](ca://s?q=Open_system_map)** | High‑level synthesis | `/system-map` |
+| **[Doctrines](ca://s?q=Open_doctrines)** | Foundational principles | `/doctrines` |
+| **[Readiness](ca://s?q=Open_readiness)** | Promotion & CFT‑IV evidence | `/readiness` |
+| **[Archive](ca://s?q=Open_archive)** | Raw / low‑priority logs | `/archive` |
 
 ---
 
 ## Key Templates
 
-- **[Journal Entry Template](../design-history/DHR-0008-Journal-Entry-Template.md)**
-- **[First Live Shift Entry](../operations/DHR-0010-First-Live-Shift-Entry.md)** (Template)
-- Weekly Synthesis (coming soon)
+- **[Journal Entry Template](ca://s?q=Open_Journal_Entry_Template)**  
+- **[First Live Shift Entry](ca://s?q=Open_First_Live_Shift_Template)**  
+- **Weekly Synthesis (coming soon)**
 
 ---
 
 ## Living Rules (Current Doctrine)
 
-- Architecture is **frozen** ([DHR-0009](../design-history/DHR-0009-Pre-Internship-Systems-Locked-In.md))
-- Capture fast. Process deliberately.
-- All artifacts must support Seneca performance or CFT-IV readiness.
+- Architecture is frozen (**[DHR‑0009](ca://s?q=Open_DHR_0009)**)  
+- Capture fast. Process deliberately.  
+- All artifacts must support Seneca performance or CFT‑IV readiness.  
 - Maintain strict anonymization for Equinix data.
 
 ---
 
 ## Current Status (July 29, 2026)
 
-- **Meta-System Phase**: Complete & Frozen
-- **Operational Phase**: Begins September 8, 2026
-- **Next Milestone**: DHR-0010 — First Live Shift Entry
+- **Meta‑System Phase:** Complete & Frozen  
+- **Operational Phase:** Begins September 8, 2026  
+- **Next Milestone:** **[DHR‑0010 — First Live Shift Entry](ca://s?q=Open_DHR_0010)**
 
 ---
 
-**This is the control panel.**  
-Return here whenever you need clarity on process, structure, or direction.
+# Layer Overview
 
-**The machine is running. Execute.**
-
----
-
-*Document owner: Lucky Osuigwe*  
-*Version: 1.0 — Frozen July 29, 2026*
----
-
-**This System Map is the control panel.**  
-Return here when you need clarity on process, structure, or direction.
-
-**The machine is running. Execute.**
-
-*Document owner: Lucky Osuigwe*  
-*Version: 1.0 — Frozen July 29, 2026*
-## 2. Layers Overview
 LuckyAISystems is built from seven core layers:
 
-1. [Philosophy Layer](ca://s?q=Open_Operation_Capability) — [View File](/Operation_Capability)
-2. [Communication Layer](ca://s?q=Open_Communication_OS) — [View Folder](/communication-os/)
-3. [Decision Layer](ca://s?q=Open_NEXT_DECISION) — [View File](/NEXT_DECISION)
-4. [Quality Layer](ca://s?q=Open_Verification_Layer) — [View Folder](/verification/)
-5. [Pipeline Layer](ca://s?q=Open_Knowledge_Production_Pipeline) — [View Folder](/pipeline/)
-6. [Repository Layer](ca://s?q=Open_Knowledge_System) — [View Folder](/knowledge-system/)
-7. [Experience Layer](ca://s?q=Open_Experience_Layer) — [View Folder](/internship-journal/)
+1. **[Philosophy Layer](ca://s?q=Open_Operation_Capability)** — Operation Capability  
+2. **[Communication Layer](ca://s?q=Open_Communication_OS)** — Communication OS  
+3. **[Decision Layer](ca://s?q=Open_NEXT_DECISION)** — NEXT_DECISION  
+4. **[Quality Layer](ca://s?q=Open_Verification_Layer)** — Verification  
+5. **[Pipeline Layer](ca://s?q=Open_Knowledge_Production_Pipeline)** — Knowledge Production  
+6. **[Repository Layer](ca://s?q=Open_Knowledge_System)** — Knowledge System  
+7. **[Experience Layer](ca://s?q=Open_Experience_Layer)** — Reality Input
 
 Each layer has a specific role and should change slowly.
 
 ---
 
-## 3. Philosophy Layer — Operation Capability
-[Open in Copilot](ca://s?q=Open_Operation_Capability)  
-[View File](/Operation_Capability)
-
-Defines why you act and what “good” looks like long-term.
-
----
-
-## 4. Communication Layer — Communication OS
-[Open in Copilot](ca://s?q=Open_Communication_OS)  
-[View Folder](/communication-os/)
-
-Defines how you think, write, and refine communication.
-
----
-
-## 5. Decision Layer — NEXT_DECISION
-[Open in Copilot](ca://s?q=Open_NEXT_DECISION)  
-[View File](/NEXT_DECISION)
-
-Determines what deserves attention next.
-
----
-
-## 6. Quality Layer — Verification
-[Open in Copilot](ca://s?q=Open_Verification_Layer)  
-[View Folder](/verification/)
-
-Ensures artifacts are trustworthy.
-
----
-
-## 7. Pipeline Layer — Knowledge Production
-[Open in Copilot](ca://s?q=Open_Knowledge_Production_Pipeline)  
-[View Folder](/pipeline/)
-
-Turns experience into reusable knowledge.
-
----
-
-## 8. Repository Layer — Knowledge System
-[Open in Copilot](ca://s?q=Open_Knowledge_System)  
-[View Folder](/knowledge-system/)
-
-Decides what becomes permanent.
-
----
-
-## 9. Experience Layer — Reality Input
-[Open in Copilot](ca://s?q=Open_Experience_Layer)  
-[View Folder](/internship-journal/)
-
-Reality is the primary reviewer.
-
----
-
-## 10. System Progression
+## System Progression
 Construction → Validation → Integration → Capability → Multiplication
 
 ---
 
-## 11. Success Metric
-“What decision does this help me make better?”
+## Success Metric
+**“What decision does this help me make better?”**
 
 ---
 
-## 12. Final Principle
+## Final Principle
 LuckyAISystems is built to compound capability over decades.
-
 
