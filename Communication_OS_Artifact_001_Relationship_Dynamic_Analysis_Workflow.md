@@ -16,7 +16,7 @@ The workflow is designed to be model-agnostic and reusable across personal, prof
 
 ---
 
-# Communication OS Workflow )[Communication OS Workflow](https://raw.githubusercontent.com/luckyaisystems/luckyaisystems.github.io/refs/heads/main/Gemini_Generated_Image_9y2v5p9y2v5p9y2v.png)
+# Communication OS Workflow [Communication OS Workflow](https://raw.githubusercontent.com/luckyaisystems/luckyaisystems.github.io/refs/heads/main/Gemini_Generated_Image_9y2v5p9y2v5p9y2v.png)
 
 The Communication OS consists of five sequential stages.
 
