@@ -1,6 +1,6 @@
 # Site Notes Compiler — Systems Index
 
-**Purpose:** Organize internship notes by critical facility system for structured learning and rapid retrieval.
+**Purpose:** Organize operational observations by critical facility system to support learning, troubleshooting, and long-term knowledge retrieval.
 
 ---
 
