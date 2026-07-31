@@ -1,5 +1,7 @@
 # AI-Enhanced Technical Knowledge Doctrine (v2.0)
 
+![Image](https://raw.githubusercontent.com/luckyaisystems/luckyaisystems.github.io/refs/heads/main/Gemini_Generated_Image_bfliudbfliudbfli%20(1).png)
+
 **LuckyAISystems — Strategic Knowledge Architecture**
 
 ## Navigation
