@@ -2,6 +2,8 @@
 
 **LuckyAISystems — Architectural Principles**
 
+![Image](https://raw.githubusercontent.com/luckyaisystems/luckyaisystems.github.io/refs/heads/main/Gemini_Generated_Image_cyaxxecyaxxecyax.png)
+
 ## Navigation
 
 - [Purpose](#purpose)
