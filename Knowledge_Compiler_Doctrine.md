@@ -1,6 +1,8 @@
 # 3. Knowledge Compiler Doctrine (v1.0)
 **LuckyAISystems -- Architectural Principles**
 
+![Image](https://raw.githubusercontent.com/luckyaisystems/luckyaisystems.github.io/refs/heads/main/Gemini_Generated_Image_zhkshmzhkshmzhks.png)
+
 ## Navigation
 - [Purpose](#purpose)
 - [Definition](#definition)
