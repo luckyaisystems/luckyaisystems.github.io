@@ -49,4 +49,4 @@ This folder groups notes by system so patterns can emerge faster.
 
 This folder transforms raw observations into system-specific intelligence.
 
-> "Systems thinking is the foundation of engineering mastery."
+![Compiler](https://raw.githubusercontent.com/luckyaisystems/luckyaisystems.github.io/refs/heads/main/Gemini_Generated_Image_feasl0feasl0feas.png)
