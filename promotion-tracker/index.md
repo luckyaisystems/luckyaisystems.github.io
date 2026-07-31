@@ -1,6 +1,8 @@
 # Promotion Tracker — Capability, Progression & Evidence  
 **Purpose:** Track technical growth, operational capability, and promotion readiness across the internship and Seneca program.
 
+![Image](https://raw.githubusercontent.com/luckyaisystems/luckyaisystems.github.io/refs/heads/main/Gemini_Generated_Image_2n7rhb2n7rhb2n7r.png)
+
 ---
 
 ## Why This Tracker Exists
