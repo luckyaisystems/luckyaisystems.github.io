@@ -1,6 +1,6 @@
 # Knowledge Production Pipeline (v1.0)
 
-![Image](https://raw.githubusercontent.com/luckyaisystems/luckyaisystems.github.io/refs/heads/main/Gemini_Generated_Image_8j1e9e8j1e9e8j1e.png)
+![Image](https://raw.githubusercontent.com/luckyaisystems/luckyaisystems.github.io/refs/heads/main/Gemini_Generated_Image_jo7lp8jo7lp8jo7l.png)
 
 **LuckyAISystems — Documentation Architecture**
 
