@@ -1,5 +1,7 @@
 # Design History Record -- Evolution Timeline
 
+![Image](https://raw.githubusercontent.com/luckyaisystems/luckyaisystems.github.io/refs/heads/main/Gemini_Generated_Image_npat8tnpat8tnpat.png)
+
 **LuckyAISystems -- Design History Record (v1.0)**
 
 ## Relationship to reflection.md <a name="relationship"></a>
