@@ -1,5 +1,7 @@
 # LuckyAISystems — Master System Map & Navigation Hub (v1.0)
 
+![Image](https://raw.githubusercontent.com/luckyaisystems/luckyaisystems.github.io/refs/heads/main/Gemini_Generated_Image_rm85arm85arm85ar.png)
+
 **Last Updated:** July 29, 2026  
 **Owner:** Lucky Osuigwe  
 **Status:** Operational — Architecture Frozen (**[DHR‑0009](ca://s?q=Open_DHR_0009)**)
