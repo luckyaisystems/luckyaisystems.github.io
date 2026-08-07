@@ -1,4 +1,4 @@
-# CF-IV Alignment Artifact (v2.1)
+# CF-IV Alignment Artifact (v2.4)
 **Candidate:** Lucky Osuigwe  
 **Target Role:** Data Center Critical Facilities IV (JR-160937)  
 **Location:** Brampton / Toronto IBX  
@@ -8,55 +8,53 @@
 ---
 
 ## 1. Executive Summary
-Structured comparison of LinkedIn competencies against Equinix Critical Facilities IV job requirements. Strong technical alignment across BMS monitoring, HVAC/R, electrical systems, and safety compliance. Current internship pathway provides exposure to mission-critical infrastructure operations.
+Structured comparison of current education, internship experience, and documented competencies against the requirements of the Equinix Critical Facilities IV role. The artifact identifies demonstrated competencies, developing areas, and planned evidence collection.
 
 | Metric | Value |
 |--------|-------|
-| Overall Assessment | Strong alignment with current internship pathway |
 | Education | Building Systems Engineering Technician @ Seneca Polytechnic |
 | Location | Etobicoke, ON | On-site / Hybrid |
-| Pay Range (Target) | $58,000–$86,000 CAD/year |
 
 ---
 
 ## 2. Technical Mapping Matrix
 
 ### 2.1 Facility & Infrastructure Operations (Required: High)
-| Job Requirement | Profile Evidence | Alignment |
-|-----------------|------------------|-----------|
-| Preventative/corrective maintenance | Seneca: HVAC/R, mechanical systems coursework | 🟢 Strong |
-| Plumbing, fire suppression, safety systems | Exposure through internship and coursework | 🟡 Developing |
-| Energy efficiency initiatives | Diploma focus: Sustainability & Energy Efficiency | 🟢 Strong |
-| BMS monitoring, alarm resolution | About section: "BMS monitoring, alarms, and SOPs" | 🟢 Strong |
+| Job Requirement | Evidence | Status |
+|-----------------|----------|--------|
+| Preventative/corrective maintenance | Seneca: HVAC/R, mechanical systems coursework | 🟢 Demonstrated |
+| Plumbing, fire suppression, safety systems | Internship within mission-critical facility environment | 🟡 Developing |
+| Energy efficiency initiatives | Diploma focus: Sustainability & Energy Efficiency | 🟢 Demonstrated |
+| BMS monitoring, alarm resolution | Documented competency: BMS monitoring, alarms, and SOPs | 🟢 Demonstrated |
 
 ### 2.2 Vendor & Documentation Support (Required: Moderate)
-| Job Requirement | Profile Evidence | Alignment |
-|-----------------|------------------|-----------|
-| Vendor work approvals, pre-work briefings | Experience to be documented as opportunities arise during internship | 🟡 Planned |
-| Technical documentation, MOPs, scripts | Profile: SOP familiarity, change management | 🟡 Medium |
-| Asset records, drawings | Seneca: AutoCAD, Revit training | 🟢 Strong |
+| Job Requirement | Evidence | Status |
+|-----------------|----------|--------|
+| Vendor work approvals, pre-work briefings | Experience to be documented as opportunities arise during internship | ⚪ Planned |
+| Technical documentation, MOPs, scripts | SOP familiarity, change management | 🟡 Developing |
+| Asset records, drawings | Seneca: AutoCAD, Revit training | 🟢 Demonstrated |
 
 ### 2.3 Site Administration & Incident Response (Required: High)
-| Job Requirement | Profile Evidence | Alignment |
-|-----------------|------------------|-----------|
+| Job Requirement | Evidence | Status |
+|-----------------|----------|--------|
 | Identify Single Points of Failure (SPOFs) | Exposure via multi-system troubleshooting coursework | 🟡 Developing |
-| Permit processes, safety practices | Profile: WHMIS awareness reposted | 🟢 Strong |
-| Equipment failure response | Profile: Service tickets, rack-and-stack (internship) | 🟡 Developing |
+| Permit processes, safety practices | Safety awareness demonstrated through coursework and professional development | 🟢 Demonstrated |
+| Equipment failure response | Internship: Service tickets, rack-and-stack | 🟡 Developing |
 
 ### 2.4 Work Orders & Projects (Required: Moderate)
-| Job Requirement | Profile Evidence | Alignment |
-|-----------------|------------------|-----------|
-| Circuit installations | Profile: Cabling, fiber support | 🟡 Developing |
+| Job Requirement | Evidence | Status |
+|-----------------|----------|--------|
+| Circuit installations | Internship within mission-critical facility environment: cabling and fiber support | 🟡 Developing |
 | Minor mechanical/electrical changes | Seneca: Three-phase power distribution coursework | 🟡 Developing |
-| Cross-functional collaboration | Activity: Reposts on team mentorship | 🟢 Strong |
+| Cross-functional collaboration | Internship and academic collaboration | 🟢 Demonstrated |
 
 ---
 
 ## 3. Internal Advantages
 - Active Equinix Workforce Development Launchpad Intern
-- Familiar with Equinix safety culture and operational procedures
-- Existing exposure to IBX operational environment
-- Established internal professional network
+- Exposure to Equinix operational procedures and safety practices
+- Internship within mission-critical facility environment
+- Established professional network within Equinix
 
 ---
 
@@ -80,16 +78,15 @@ Structured comparison of LinkedIn competencies against Equinix Critical Faciliti
 
 ---
 
-## 6. Future Portfolio Additions
-*(Not yet completed — planned based on coursework availability)*
-- BMS sandbox environment simulations
-- Electrical distribution diagnostic labs
-- HVAC fluid mechanics case studies
-- Energy modeling assignment outputs
+## 6. Planned Portfolio Additions
+- [ ] BMS sandbox simulations
+- [ ] Electrical distribution diagnostics
+- [ ] Energy modeling assignments
+- [ ] HVAC fluid mechanics case studies
 
 ---
 
-## 7. Future Evidence Collection
+## 7. Planned Evidence Collection
 - [ ] BMS monitoring observations
 - [ ] Preventive maintenance participation logs
 - [ ] De-identified work order examples
@@ -99,11 +96,11 @@ Structured comparison of LinkedIn competencies against Equinix Critical Faciliti
 ---
 
 ## 8. Next Steps
-1. Continue documenting BMS monitoring experiences
-2. Track internship hours/tasks weekly for evidence collection
-3. Pursue HVAC/Electrical vocational certifications
-4. Continue developing professional relationships within Equinix
-5. Update LinkedIn with project outcomes as they complete
+1. Document internship observations weekly.
+2. Build public BMS portfolio as coursework is completed.
+3. Track maintenance-related exposure in evidence logs.
+4. Pursue HVAC/Electrical certifications where applicable.
+5. Reassess alignment after each academic term and major internship milestone.
 
 ---
 
