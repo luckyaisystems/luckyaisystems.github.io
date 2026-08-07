@@ -50,6 +50,31 @@ Structured comparison of current education, internship experience, and documente
 
 ---
 
+## 2.5 LinkedIn Projects → CF-IV Competency Mapping
+
+The following LinkedIn projects demonstrate habits and competencies relevant to the Critical Facilities IV role:
+
+| Project | Demonstrates |
+|---------|--------------|
+| Engineering Knowledge Architecture | Structured technical documentation and knowledge organization applicable to operations and maintenance environments |
+| Communication OS | Structured communication approach useful in collaborative operational environments |
+| Site Notes Compiler | Observation discipline and continuous operational learning |
+
+These projects collectively show a consistent emphasis on documentation, structured learning, and cross-functional communication. These competencies support CF-IV responsibilities such as interpreting technical documentation, maintaining accurate records, coordinating with others, and responding to operational issues.
+
+### Project Context
+
+**Engineering Knowledge Architecture**  
+Demonstrates structured technical documentation and knowledge organization applicable to operations and maintenance environments.
+
+**Communication OS**  
+Demonstrates a structured approach to communication that may be useful in collaborative operational environments.
+
+**Site Notes Compiler**  
+Shows consistent observation habits and operational learning.
+
+---
+
 ## 3. Internal Advantages
 - Active Equinix Workforce Development Launchpad Intern
 - Exposure to Equinix operational procedures and safety practices
@@ -104,7 +129,17 @@ Structured comparison of current education, internship experience, and documente
 
 ---
 
-## 9. Contact & References
+## 9. Supporting Portfolio
+
+| Artifact | Primary Competency |
+|----------|---------------------|
+| Engineering Knowledge Architecture | Documentation & knowledge management |
+| Site Notes Compiler | Observation & operational learning |
+| Communication OS | Structured communication & coordination |
+
+---
+
+## 10. Contact & References
 **LinkedIn:** linkedin.com/in/luckyosuigwe  
 **GitHub:** github.com/luckyaisystems  
 **Email:** [luckosuigwe@gmail.com]  
