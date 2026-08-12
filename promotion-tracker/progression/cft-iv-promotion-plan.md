@@ -31,7 +31,7 @@ Your strategy is to **compress** it.
 - The CF-IV role is a **backfill vacancy**, not a new headcount.
 - You can demonstrate **trajectory**, not just potential.
 
-**Related Artifact:** [CF-IV Readiness](./cft-iv-readiness-artifact.md)
+**Related Artifact:** [CF-IV Readiness](https://luckyaisystems.github.io/promotion-tracker/progression/cft-iv-readiness.html)
 
 ---
 
@@ -58,7 +58,7 @@ This artifact shows exactly how you will accumulate evidence.
 #### Manager Signal to Trigger
 > "Lucky picks things up fast."
 
-**Related Artifact:** [Engineering Knowledge Architecture](../engineering-knowledge-architecture/)
+**Related Artifact:** [Engineering Knowledge Architecture](https://luckyaisystems.github.io/AI-Enhanced%20Technical%20Knowledge%20Doctrine.html)
 
 ---
 
@@ -80,7 +80,7 @@ This artifact shows exactly how you will accumulate evidence.
 #### Manager Signal to Trigger
 > "Lucky communicates clearly and reduces risk."
 
-**Related Artifact:** [Communication OS](../communication-os/)
+**Related Artifact:** [Communication OS](https://luckyaisystems.github.io/communication-os/)
 
 ---
 
@@ -102,7 +102,7 @@ This artifact shows exactly how you will accumulate evidence.
 #### Manager Signal to Trigger
 > "Lucky is operating at a higher level than expected for an intern."
 
-**Related Artifact:** [Site Notes Compiler](../site-notes-compiler/)
+**Related Artifact:** [Site Notes Compiler](https://luckyaisystems.github.io/site-notes-compiler/systems/)
 
 ---
 
@@ -127,7 +127,7 @@ Managers promote when:
 - The vacancy is real
 - The candidate is already operating above their level
 
-**Related Artifact:** [CFT-IV Readiness Artifact](./cft-iv-readiness-artifact.md)
+**Related Artifact:** [CFT-IV Readiness Artifact](https://luckyaisystems.github.io/CF-IV-Alignment-Artifact.html)
 
 ---
 
@@ -168,7 +168,7 @@ Managers promote when:
 - Handoff clarity
 - Coordination notes
 
-**Related Artifact:** [Documentation Discipline](../documentation-discipline/)
+**Related Artifact:** [Documentation Discipline](https://luckyaisystems.github.io/communication-os/HOW_TO_USE)
 
 ---
 
@@ -194,12 +194,12 @@ This is how internal mobility actually works.
 
 | Artifact | Purpose | Link |
 |----------|---------|------|
-| CF-IV Alignment Artifact (v2.5) | Capability mapping vs. job requirements | [Link](./cf-iv-alignment-artifact.md) |
-| CFT-IV Readiness Artifact (v3.0) | Progress tracking toward Level IV | [Link](./cft-iv-readiness-artifact.md) |
-| CFT-IV Promotion Plan (v1.0) | 3-month internal mobility blueprint | (this document) |
-| Engineering Knowledge Architecture | Knowledge workflow system | [Link](../engineering-knowledge-architecture/) |
-| Site Notes Compiler | Operational learning logs | [Link](../site-notes-compiler/) |
-| Communication OS | Structured vendor coordination | [Link](../communication-os/) |
+| CF-IV Alignment Artifact (v2.5) | Capability mapping vs. job requirements | [Link](https://luckyaisystems.github.io/CF-IV-Alignment-Artifact.html) |
+| CFT-IV Readiness Artifact (v3.0) | Progress tracking toward Level IV | [Link](https://luckyaisystems.github.io/promotion-tracker/progression/cft-iv-readiness.html) |
+| CFT-IV Promotion Plan (v1.0) | 3-month internal mobility blueprint | [Link](https://luckyaisystems.github.io/promotion-tracker/progression/cft-iv-promotion-plan.html) |
+| Engineering Knowledge Architecture | Knowledge workflow system | [Link](https://luckyaisystems.github.io/AI-Enhanced%20Technical%20Knowledge%20Doctrine.html) |
+| Site Notes Compiler | Operational learning logs | [Link](https://luckyaisystems.github.io/site-notes-compiler/systems/) |
+| Communication OS | Structured vendor coordination | [Link](https://luckyaisystems.github.io/communication-os/) |
 
 ---
 
