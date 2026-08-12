@@ -1,9 +1,11 @@
-# CFT-IV Promotion Plan (1.0)
+# CFT-IV Promotion Plan (v1.1)
 
 **Candidate:** Lucky Osuigwe  
 **Target Role:** Critical Facilities Technician IV (JR-160937 — Brampton IBX)  
-**Purpose:** Convert internship performance + documentation evidence into a legitimate internal mobility case for early CF-IV consideration.  
-**Window:** 12-week internship → renegotiation period.
+**Purpose:** Document internship progression and create auditable evidence for internal mobility discussion.  
+**Window:** 12-week internship → renegotiation period.  
+
+**Governance Rule:** Repository documents evidence; operational performance determines competency.
 
 ---
 
@@ -18,8 +20,8 @@ Equinix typically requires:
 - Documentation accuracy
 - SPOF awareness
 
-Your strategy is not to "skip" this requirement.  
-Your strategy is to **compress** it.
+Your strategy is not to skip this requirement.  
+Your strategy is to build a documented progression toward it.
 
 ### Your Leverage Points
 
@@ -31,13 +33,15 @@ Your strategy is to **compress** it.
 - The CF-IV role is a **backfill vacancy**, not a new headcount.
 - You can demonstrate **trajectory**, not just potential.
 
+**Important:** GitHub artifacts establish method and preparation. They do not establish unsupervised operational competence. Actual site performance does.
+
 **Related Artifact:** [CF-IV Readiness](https://luckyaisystems.github.io/promotion-tracker/progression/cft-iv-readiness.html)
 
 ---
 
-## 2. 12-Week Promotion Timeline (Operational Proof)
+## 2. 12-Week Promotion Timeline (Operational Evidence Pipeline)
 
-This artifact shows exactly how you will accumulate evidence.
+This artifact tracks how you earn evidence during your internship.
 
 ---
 
@@ -49,13 +53,17 @@ This artifact shows exactly how you will accumulate evidence.
 - Begin daily Site Notes Compiler entries.
 - Observe alarm behavior in real time.
 
-#### Evidence to Collect
-- [ ] 10+ structured BMS observations
-- [ ] 1 dependency map (cooling loop or electrical path)
-- [ ] 1 recurring alarm pattern
+#### Evidence Collection Targets
+*(Quality over quantity — one validated observation > ten superficial entries)*
+- [ ] 10+ structured BMS observations (with supervisor acknowledgment)
+- [ ] 1 dependency map (cooling loop or electrical path) validated by senior tech
+- [ ] 1 recurring alarm pattern documented
 - [ ] 1 "Developing" → "Demonstrated" readiness update
 
-#### Manager Signal to Trigger
+#### GitHub Role
+Repository acts as **audit trail** for observed system behaviors. It does not create competence.
+
+#### Manager Signal to Look For
 > "Lucky picks things up fast."
 
 **Related Artifact:** [Engineering Knowledge Architecture](https://luckyaisystems.github.io/AI-Enhanced%20Technical%20Knowledge%20Doctrine.html)
@@ -70,54 +78,78 @@ This artifact shows exactly how you will accumulate evidence.
 - Document communication dynamics using Communication OS.
 - Begin drafting sanitized SOP/MOP structures (non-proprietary).
 
-#### Evidence to Collect
-- [ ] 2 vendor-interaction logs
+#### Evidence Collection Targets
+*(Quality over quantity — one validated observation > ten superficial entries)*
+- [ ] 2 vendor-interaction logs (with supervisor notes)
 - [ ] 1 pre-work briefing structure
 - [ ] 1 post-work verification structure
-- [ ] 1 SOP draft (non-proprietary)
-- [ ] 1 case study (sanitized)
+- [ ] 1 SOP draft (non-proprietary) reviewed by supervisor
+- [ ] 1 case study (sanitized) with reasoning steps
 
-#### Manager Signal to Trigger
+#### GitHub Role
+Repository documents **participation under supervision**. It does not replace supervised experience.
+
+#### Manager Signal to Look For
 > "Lucky communicates clearly and reduces risk."
 
 **Related Artifact:** [Communication OS](https://luckyaisystems.github.io/communication-os/)
 
 ---
 
-### Weeks 9–12 — Portfolio Compilation (Promotion Phase)
+### Weeks 9–12 — Portfolio Compilation (Evaluation Phase)
 
 #### Objectives
 - Convert internship observations into structured case studies.
 - Update CF-IV Readiness Artifact with real evidence.
-- Demonstrate judgment under supervision.
+- Demonstrate repeatability under authorization.
 - Present portfolio during evaluation.
 
-#### Evidence to Collect
-- [ ] 3 sanitized case studies
+#### Evidence Collection Targets
+*(Quality over quantity — one validated observation > ten superficial entries)*
+- [ ] 3 sanitized case studies (with supervisor validation)
 - [ ] 2 recurring pattern analyses
-- [ ] 2 SOP drafts
-- [ ] 1 reliability summary
+- [ ] 2 SOP drafts (reviewed)
+- [ ] 1 reliability summary (supervisor feedback)
 - [ ] Full readiness update (Pending → Developing → Demonstrated)
 
-#### Manager Signal to Trigger
+#### GitHub Role
+Repository acts as **longitudinal evidence ledger**. It documents progression; it does not prove autonomy.
+
+#### Manager Signal to Look For
 > "Lucky is operating at a higher level than expected for an intern."
 
 **Related Artifact:** [Site Notes Compiler](https://luckyaisystems.github.io/site-notes-compiler/systems/)
 
 ---
 
-## 3. Promotion Argument (Internal Mobility Frame)
+## 3. Evidence Hierarchy (Competency Validation)
 
-This is the exact script you use during the renegotiation window.
+The repository never upgrades a competency by itself. Operational evidence does.
+
+| Evidence Type | Effect | Value |
+|---------------|--------|-------|
+| Read about systems | Knowledge | Low |
+| Build simulation | Demonstrated technical learning | Low-Medium |
+| Observe maintenance | Operational exposure | Medium |
+| Participate under supervision | Applied experience | Medium-High |
+| Perform task correctly repeatedly | Stronger evidence | High |
+| Supervisor independently validates performance | High-value evidence | Highest |
+| Handle abnormal condition within authorization | Strong CF evidence | Highest |
+
+---
+
+## 4. Promotion Argument (Internal Mobility Discussion)
+
+This is the framework for the renegotiation window discussion.
 
 ### The Frame
 
-> "Experience duration is a proxy for operational maturity.  
-> I've accelerated that timeline through structured documentation systems, visual learning, and hands-on exposure.  
-> My GitHub portfolio shows a longitudinal record of capability development aligned directly to JR-160937.  
-> With continued investment, I will be a stronger CF-IV in two years than a candidate hired externally with generic experience."
+> "Here is the evidence I've accumulated.  
+> Here are the CF-IV requirements I can currently demonstrate.  
+> Here are the gaps.  
+> I'd like to understand whether those gaps are bridgeable for this vacancy."
 
-### Why This Works
+### Why This Approach
 
 Managers promote when:
 
@@ -131,7 +163,7 @@ Managers promote when:
 
 ---
 
-## 4. Evidence Ledger (What You Track Weekly)
+## 5. Evidence Ledger (Weekly Tracking Categories)
 
 ### Systems
 - Equipment encountered
@@ -172,10 +204,10 @@ Managers promote when:
 
 ---
 
-## 5. Final Promotion Strategy (One-Way Door)
+## 6. Final Discussion Strategy
 
 You are not asking for a promotion.  
-You are presenting **evidence**.
+You are presenting **evidence** and asking for a path assessment.
 
 ### Your Script
 
@@ -184,26 +216,34 @@ You are presenting **evidence**.
 > Here is what I've learned.  
 > Here are the remaining gaps.  
 > Here is my trajectory.  
-> I'd like to discuss whether there is a path toward the CF-IV vacancy."
+> I'd like to understand whether there is a path toward the CF-IV vacancy."
 
-This is how internal mobility actually works.
+This is how internal mobility discussions work.  
+If the answer is yes, you have a negotiation.  
+If the answer is no, you have a precise map of what must be earned next.
 
 ---
 
-## 6. Artifact Navigation
+## 7. Artifact Navigation
 
 | Artifact | Purpose | Link |
 |----------|---------|------|
 | CF-IV Alignment Artifact (v2.5) | Capability mapping vs. job requirements | [Link](https://luckyaisystems.github.io/CF-IV-Alignment-Artifact.html) |
 | CFT-IV Readiness Artifact (v3.0) | Progress tracking toward Level IV | [Link](https://luckyaisystems.github.io/promotion-tracker/progression/cft-iv-readiness.html) |
-| CFT-IV Promotion Plan (v1.0) | 3-month internal mobility blueprint | [Link](https://luckyaisystems.github.io/promotion-tracker/progression/cft-iv-promotion-plan.html) |
+| CFT-IV Promotion Plan (v1.1) | 3-month internal mobility blueprint | [Link](https://luckyaisystems.github.io/promotion-tracker/progression/cft-iv-promotion-plan.html) |
 | Engineering Knowledge Architecture | Knowledge workflow system | [Link](https://luckyaisystems.github.io/AI-Enhanced%20Technical%20Knowledge%20Doctrine.html) |
 | Site Notes Compiler | Operational learning logs | [Link](https://luckyaisystems.github.io/site-notes-compiler/systems/) |
 | Communication OS | Structured vendor coordination | [Link](https://luckyaisystems.github.io/communication-os/) |
 
 ---
 
-## 7. Contact & References
+## 8. Operating Loop
+
+> **Observe → Participate → Perform Within Authorization → Get Validated → Document → Reassess.**
+
+---
+
+## 9. Contact & References
 
 **LinkedIn:** linkedin.com/in/luckyosuigwe  
 **GitHub:** github.com/luckyaisystems  
