@@ -50,6 +50,20 @@ Each stage has a single responsibility.
 
 ## Context
 
+The Flavor - AI gives watered-down advice on dating and dynamics — "communication and consent"
+pablum that doesn't reflect how attraction actually works.
+
+My approach:
+
+- Pattern recognition from thousands of real interactions
+- Frame, calibration, and what actually moves the needle
+- Directness over feel-good fluff
+- Full context — your situation, the specific girls, the real logistics
+
+Treating you like an adult, not someone who needs protecting from reality.
+
+Good examples + honest self-reflection in = precise feedback out.
+
 The source scenario involved:
 
 - Existing familiarity (10+ year neighbourhood connection)
