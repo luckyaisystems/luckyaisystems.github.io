@@ -101,7 +101,7 @@ In a practical setting, you cannot view these systems in isolation. They operate
 
 5. **Life-Safety Overrides**: If a fire starts during this chaos, the Life-Safety System will override the BMS, shut down HVAC fans (to stop smoke from spreading), drop elevator cabs to the ground floor, and activate the fire suppression system.
 
-[image](https://github.com/luckyaisystems/luckyaisystems.github.io/blob/main/Lumo%20generated%202026-10-14%2012.28.png)
+![image](https://github.com/luckyaisystems/luckyaisystems.github.io/blob/main/Lumo%20generated%202026-10-14%2012.28.png)
  ---
 
 ## 🛠️ Key Troubleshooting Skills Required
