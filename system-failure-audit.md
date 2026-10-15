@@ -1,11 +1,6 @@
----
-title: System Failure Audit
----
-
 # System Failure Audit
 
 A deterministic logic engine for classifying failure modes across input, operator, and execution layers — inspired by PLC safety interlocks and AI-assisted decision systems.
-
 
 ![Image](https://raw.githubusercontent.com/luckyaisystems/system-failure-audit/main/Screenshot%202026-05-03%204.01.12%20PM.png
 )
