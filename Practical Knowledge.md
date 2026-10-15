@@ -1,6 +1,7 @@
 # 📋 Critical Building Infrastructure Systems
 
-![image](https://github.com/luckyaisystems/luckyaisystems.github.io/blob/main/Lumo%20generated%202026-10-14%2012.28.png)
+![image](Lumo%20generated%202026-10-14%2012.28.png)
+
 
 ## 🔋 1. Uninterruptible Power Supply (UPS)
 
