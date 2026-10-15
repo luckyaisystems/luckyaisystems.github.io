@@ -17,16 +17,7 @@ A deterministic logic engine for classifying failure modes across input, operato
 | Input Layer     | Model Error      | Bad, missing, corrupted, or out-of-range data             |
 | Decision Layer  | Operator Error   | Bias, emotion, logic violation, or unsafe decision path   |
 | Execution Layer | Execution Decay  | Timing failures, actuator breakdown, or incomplete execution |
-
-
-## Code Overview
-
-The [`failure_audit.py`](https://github.com/luckyaisystems/system-failure-audit/blob/main/failure_audit.py) script implements a deterministic 3-layer failure classifier:
-
-- **Input Layer (Model Error)** — Detects bad or corrupted data  
-- **Decision Layer (Operator Error)** — Detects bias, emotion, or logic violations  
-- **Execution Layer (Execution Decay)** — Detects timing failures, actuator breakdowns, or incomplete execution  
-
+ 
 ## Example Output
 
 ```text
