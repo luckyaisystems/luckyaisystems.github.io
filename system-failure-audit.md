@@ -7,7 +7,7 @@ title: System Failure Audit
 A deterministic logic engine for classifying failure modes across input, operator, and execution layers — inspired by PLC safety interlocks and AI-assisted decision systems.
 
 
-![System Failure Audit Diagram](https://raw.githubusercontent.com/luckyaisystems/system-failure-audit/main/Screenshot%202026-05-03%204.01.12%20PM.png
+![Image](https://raw.githubusercontent.com/luckyaisystems/system-failure-audit/main/Screenshot%202026-05-03%204.01.12%20PM.png
 )
 
 ## Failure Mode Classification Table
@@ -18,7 +18,6 @@ A deterministic logic engine for classifying failure modes across input, operato
 | Decision Layer  | Operator Error   | Bias, emotion, logic violation, or unsafe decision path   |
 | Execution Layer | Execution Decay  | Timing failures, actuator breakdown, or incomplete execution |
 
-This mirrors how industrial safety systems isolate failures across sensing, logic, and actuation.
 
 ## Code Overview
 
