@@ -1,6 +1,7 @@
 # System Failure Audit
 
-A deterministic logic engine for classifying failure modes across input, operator, and execution layers — inspired by PLC safety interlocks and AI-assisted decision systems.
+A deterministic logic engine for classifying failure modes across input, operator, and execution layers — inspired by PLC safety interlocks and AI-assisted decision systems. I originally developed a software model for classifying failures across input, decision, and execution layers. During my Equinix internship, I began recognizing analogous distinctions in building systems: what the monitoring system reports, what the controller commands, and what the physical equipment actually does. That connection motivated me to study actuators, feedback signals, and failure diagnosis more closely
+
 ![image](https://raw.githubusercontent.com/luckyaisystems/system-failure-audit/main/Screenshot%202026-05-03%204.01.12%20PM.png)
 
 ## Failure Mode Classification Table
